@@ -2,4 +2,4 @@
 name = zoidbergwill.github.io
 
 [servers.ghpages]
-target = ghpages://zoidbergwill/zoidbergwill.github.io?cname=www.zoidbergwill.com
+target = ghpages+https://zoidbergwill/zoidbergwill.github.io?cname=www.zoidbergwill.com
