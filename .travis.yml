@@ -1,0 +1,4 @@
+language: python
+python: 2.7
+install: "pip install Lektor"
+script: "cd zoidbergwill.github.io/ && lektor build && lektor deploy ghpages"
