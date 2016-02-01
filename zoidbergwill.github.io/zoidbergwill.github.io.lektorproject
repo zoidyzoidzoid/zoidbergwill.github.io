@@ -1,0 +1,5 @@
+[project]
+name = zoidbergwill.github.io
+
+[servers.ghpages]
+target = ghpages://zoidbergwill/zoidbergwill.github.io?cname=www.zoidbergwill.com
