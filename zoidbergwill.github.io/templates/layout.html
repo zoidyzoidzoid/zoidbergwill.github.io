@@ -1,10 +1,11 @@
 <!doctype html>
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — zoidbergwill.github.io</title>
+<link rel="stylesheet" href="{{ get_pygments_stylesheet()|url }}">
+<title>{% block title %}Welcome{% endblock %} — zoidbergwill.com</title>
 <body>
   <header>
-    <h1>zoidbergwill.github.io</h1>
+    <h1>zoidbergwill.com</h1>
     <nav>
       <ul class="nav navbar-nav">
         <li{% if this._path == '/' %} class="active"{% endif

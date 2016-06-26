@@ -1,6 +1,5 @@
-title: Welcome to zoidbergwill.github.io!
+title: Welcome to zoidbergwill.com!
 ---
-body:
-
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+body: This is the beginning of my personal website.
+---
+_template: page.html
