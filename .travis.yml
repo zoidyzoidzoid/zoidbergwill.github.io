@@ -5,4 +5,4 @@ cache:
   directories:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
-script: "cd zoidbergwill.github.io/ && lektor build && lektor deploy ghpages"
+script: "lektor build && lektor deploy ghpages"
