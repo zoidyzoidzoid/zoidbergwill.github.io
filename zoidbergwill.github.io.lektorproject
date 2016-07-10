@@ -2,7 +2,7 @@
 name = zoidbergwill.com
 
 [servers.ghpages]
-target = ghpages+https://zoidbergwill/zoidbergwill.github.io?cname=www.zoidbergwill.com
+target = ghpages+https://zoidbergwill/zoidbergwill.github.io
 
 [packages]
 lektor-markdown-highlighter = 0.1
